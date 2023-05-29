@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\springboot-graphql-databases\book-review-api\src\main\java\com\ivanfranchin\bookreviewapi\service\BookServiceImpl.java
+C:\Users\User\Desktop\springboot-graphql-databases\book-review-api\src\main\java\com\ivanfranchin\bookreviewapi\mapper\ReviewMapper.java
+C:\Users\User\Desktop\springboot-graphql-databases\book-review-api\src\main\java\com\ivanfranchin\bookreviewapi\graphql\BookReviewController.java
+C:\Users\User\Desktop\springboot-graphql-databases\book-review-api\src\main\java\com\ivanfranchin\bookreviewapi\mapper\BookMapper.java
+C:\Users\User\Desktop\springboot-graphql-databases\book-review-api\src\main\java\com\ivanfranchin\bookreviewapi\config\MongoConfig.java
+C:\Users\User\Desktop\springboot-graphql-databases\book-review-api\src\main\java\com\ivanfranchin\bookreviewapi\graphql\BookReviewExceptionResolver.java
+C:\Users\User\Desktop\springboot-graphql-databases\book-review-api\src\main\java\com\ivanfranchin\bookreviewapi\exception\BookNotFoundException.java
+C:\Users\User\Desktop\springboot-graphql-databases\book-review-api\src\main\java\com\ivanfranchin\bookreviewapi\service\BookService.java
+C:\Users\User\Desktop\springboot-graphql-databases\book-review-api\src\main\java\com\ivanfranchin\bookreviewapi\graphql\input\ReviewInput.java
+C:\Users\User\Desktop\springboot-graphql-databases\book-review-api\src\main\java\com\ivanfranchin\bookreviewapi\repository\BookRepository.java
+C:\Users\User\Desktop\springboot-graphql-databases\book-review-api\src\main\java\com\ivanfranchin\bookreviewapi\BookReviewApiApplication.java
+C:\Users\User\Desktop\springboot-graphql-databases\book-review-api\src\main\java\com\ivanfranchin\bookreviewapi\model\Review.java
+C:\Users\User\Desktop\springboot-graphql-databases\book-review-api\src\main\java\com\ivanfranchin\bookreviewapi\exception\BookDuplicatedIsbnException.java
+C:\Users\User\Desktop\springboot-graphql-databases\book-review-api\src\main\java\com\ivanfranchin\bookreviewapi\model\Book.java
+C:\Users\User\Desktop\springboot-graphql-databases\book-review-api\src\main\java\com\ivanfranchin\bookreviewapi\graphql\input\BookInput.java
+C:\Users\User\Desktop\springboot-graphql-databases\book-review-api\src\main\java\com\ivanfranchin\bookreviewapi\security\CorsConfig.java
